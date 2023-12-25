@@ -14,7 +14,6 @@ import steps.UserSteps;
 import static java.net.HttpURLConnection.HTTP_OK;
 import static java.net.HttpURLConnection.HTTP_UNAUTHORIZED;
 import static org.hamcrest.CoreMatchers.is;
-import static steps.UserSteps.createUser;
 import static steps.UserSteps.loginUser;
 
 public class LoginUserTests {

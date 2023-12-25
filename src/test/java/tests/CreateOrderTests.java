@@ -26,7 +26,6 @@ public class CreateOrderTests {
     public String[] invalid_ingredients = {"61c0c5a71d1f82001bda6d","61c0c5a71d1f82001aaa6f"};
 
     protected String token;
-    private final User user = new User(EMAIL, PASSWORD, NAME);
 
     @Before
     public void setUp() {

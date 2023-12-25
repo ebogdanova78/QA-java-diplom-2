@@ -3,7 +3,6 @@ package tests;
 import classes.User;
 import io.qameta.allure.Description;
 import io.qameta.allure.junit4.DisplayName;
-import io.qameta.allure.Description;
 import io.restassured.RestAssured;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
